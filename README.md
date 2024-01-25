@@ -10,6 +10,10 @@ Fork the project and try it with :
 ```
 ./basher.sh --help
 ```
+or
+```
+./basher.sh -h
+```
 
 ## Screenshot
 ![Screenshot](https://raw.githubusercontent.com/screwgoth/basher/master/basher_screenshot.png)
