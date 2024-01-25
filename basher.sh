@@ -35,7 +35,7 @@ usage () {
 # If the minimum specified options are not provided, we walk
 if [[ $# < $MIN_ARGS ]];
 then
-    echo -e "\033[31mError : Too few arguments\033[0m"
+    echo -e "\033[31mError : Too few arguments, pass arguments with -r\033[0m"
     usage
     exit 1
 fi
