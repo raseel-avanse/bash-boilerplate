@@ -3,6 +3,7 @@
 # Basher
 > For the command-line creators who want to save those precious 15 minutes at the start
 
+Testing git mirror.
 A simple boilerplate code to get started on developing bash script applications, which accept arguments similar to most Linux command-line applications.
 
 ## Getting started
